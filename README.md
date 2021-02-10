@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Chaim Baror</h1>
 <h3 align="center">developer</h3>
