@@ -1,25 +1,33 @@
-
 <h1 align="center">Hi 👋, I'm Chaim Baror</h1>
-<h3 align="center">developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  🔭 Currently working on building advanced 3D GIS and web applications | Linnovate Technologies<br>
+  🌱 Learning advanced cloud architectures, AI integrations, and performance optimization<br>
+  💬 Ask me about React, Next.js, Node.js, TypeScript, 3D mapping, and GIS<br>
+  📫 How to reach me: <a href="mailto:chbaror@gmail.com">chbaror@gmail.com</a><br>
+  😄 Pronouns: He/Him<br>
+  ⚡ Fun fact: I love turning complex data into clean, interactive visualizations
+</p>
 
-<!--
-**ChaimBaror/ChaimBaror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ **Tech Stack**
+**Front-End:** React.js, Next.js, Angular, TypeScript, JavaScript  
+**Back-End:** Node.js, Express.js, NestJS, Python  
+**3D & GIS:** CesiumJS, ResiumJS, Mapcore SDK, WebAssembly (WASM)  
+**DevOps & Tools:** Git, Docker, n8n, CI/CD, Jenkins  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 **Current Projects**
+- **3D Real-Estate Mapping Platform** – Elbit Systems & IDF Unit 9900 (WebAssembly + Mapcore SDK)  
+- **AI Bot API** – Clalit Health Services (Node.js, Express, Swagger, TypeScript)  
+- **3D GIS POC** – Kela Technologies (React, CesiumJS, ResiumJS, Vite)  
+
+---
+
+### 📫 **Contact**
+- Email: [chbaror@gmail.com](mailto:chbaror@gmail.com)  
+- LinkedIn: [linkedin.com/in/chbaror](LINKEDIN)  
+- GitHub: [github.com/ChaimBaror](https://github.com/ChaimBaror)
