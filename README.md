@@ -21,9 +21,9 @@
 ---
 
 ### 📂 **Current Projects**
-- **3D Real-Estate Mapping Platform** – Elbit Systems & IDF Unit 9900 (WebAssembly + Mapcore SDK)  
-- **AI Bot API** – Clalit Health Services (Node.js, Express, Swagger, TypeScript)  
-- **3D GIS POC** – Kela Technologies (React, CesiumJS, ResiumJS, Vite)  
+- **3D Real-Estate Mapping Platform** – ***** & ***** (WebAssembly + Mapcore SDK)  
+- **AI Bot API** – ***** ***** Services (Node.js, Express, Swagger, TypeScript)  
+- **3D GIS POC** – **** Technologies (React, CesiumJS, ResiumJS, Vite)  
 
 ---
 
